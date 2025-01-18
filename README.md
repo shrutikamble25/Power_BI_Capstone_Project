@@ -1,9 +1,9 @@
-#Capstone Project
+# Capstone Project
 
-##Crime Analysis Using Power BI
+## Crime Analysis Using Power BI
 
-##Group Member are:
+## Group Member are:
 
-Arpit Dubey
-Sanika Raut
-Shruti Kamble
+- Arpit Dubey
+- Sanika Raut
+- Shruti Kamble
