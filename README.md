@@ -13,4 +13,5 @@
 - Arpit Dubey
 - Sanika Raut
 - Shruti Kamble
+- Anjali Singh
   ![Image Alt](https://github.com/shrutikamble25/Power_BI_Capstone_Project/blob/e401cb91bd091e305c93a1e8c749301b6b752bc4/SCREENSHOT.png)
